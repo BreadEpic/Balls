@@ -1,0 +1,15 @@
+{
+"companyName": "Dani And Mr. W",
+"productName": "Balls?",
+"productVersion": "1.13",
+"dataUrl": "427986cdd11bf51d84a731760bb129da.unityweb",
+"wasmCodeUrl": "594ba1face5c7c52c3fef0911fc2490b.unityweb",
+"wasmFrameworkUrl": "09c1b1e9a943e5cf43ed63ea2c335bd9.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.7f1"
+}
